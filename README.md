@@ -103,7 +103,6 @@ Today I turn Azure AI services into **production-ready platform capabilities**: 
 
 ## 📚 Currently learning
 
-- **Kubernetes internals:** kubeadm, etcd, troubleshooting, working toward **CKA**
 - **LLMOps:** evaluation, observability and cost control for LLM applications, working toward **AI-300**
 - **GPU infrastructure:** model serving with vLLM and KAITO on AKS
 - **Terraform on Azure:** reusable modules and CI/CD with OIDC
