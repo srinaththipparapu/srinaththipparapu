@@ -96,7 +96,7 @@ Today I turn Azure AI services into **production-ready platform capabilities**: 
 |---|---|---|
 | 2025 – Present | Cloud / AI Platform & AKS Architect | Qmobility |
 | 2022 – 2025 | Infrastructure Unix / OpenShift Lead | Tech Mahindra |
-| 2022 | OpenShift Principal Architect | Techolution |
+| 2022 - 2022 | OpenShift Principal Architect | Techolution |
 | 2019 – 2022 | Lead Systems Engineer – IT Unix | Micron Technologies |
 | 2015 – 2019 | System Administrator | CSC |
 | 2009 – 2015 | System Operations Lead Specialist | IBM |
